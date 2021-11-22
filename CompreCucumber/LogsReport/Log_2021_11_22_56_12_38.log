@@ -1,0 +1,56 @@
+2021-11-22 12:56:49,523  INFO [main] Base:37 - Driver Initialized
+2021-11-22 12:56:56,912  INFO [main] Base:39 - Site opened
+2021-11-22 12:57:00,493  INFO [main] Base:47 - Clicked on login
+2021-11-22 12:57:02,668  INFO [main] Base:57 - ExcelSheet opened
+2021-11-22 12:57:02,684  INFO [main] Base:65 - Entering username
+2021-11-22 12:57:02,914  INFO [main] Base:69 - Entering Password
+2021-11-22 12:57:03,050  INFO [main] Base:73 - Entered username= shubhampan1411@gmail.com
+2021-11-22 12:57:03,051  INFO [main] Base:74 - Entered password= Shubham@123
+2021-11-22 12:57:14,947  INFO [main] Base:37 - Driver Initialized
+2021-11-22 12:57:22,513  INFO [main] Base:39 - Site opened
+2021-11-22 12:57:30,287  INFO [main] Base:42 - User clicked on the blog
+2021-11-22 12:57:30,942  INFO [main] Base:58 - Quotes Validated: 2. You are the best brother one can have and this feeling makes me feel blessed and protected. I convey you my special prayers and thanks on this wonderful occasion of Bhai Dooj. Have a great day and a wonderful year ahead bhai!
+2021-11-22 12:57:36,436  INFO [main] Base:37 - Driver Initialized
+2021-11-22 12:57:48,162  INFO [main] Base:39 - Site opened
+2021-11-22 12:57:48,163  INFO [main] Base:33 - User is on home page
+2021-11-22 12:57:51,496  INFO [main] Base:42 - User Landed on Contact us Form 
+2021-11-22 12:57:51,501  INFO [main] Base:50 - Enter Essential informations
+2021-11-22 12:57:51,971  INFO [main] Base:52 - Name Entered
+2021-11-22 12:57:52,324  INFO [main] Base:54 - Email Entered
+2021-11-22 12:57:52,509  INFO [main] Base:56 - Meassage entered
+2021-11-22 12:57:57,182  INFO [main] Base:68 - Submitted
+2021-11-22 12:58:01,832  INFO [main] Base:37 - Driver Initialized
+2021-11-22 12:58:09,047  INFO [main] Base:39 - Site opened
+2021-11-22 12:58:15,668  INFO [main] Base:45 - Clicking on All Of It section from Navigation Bar
+2021-11-22 12:58:15,669  INFO [main] Base:50 - Clicking on next page button
+2021-11-22 12:58:21,286  INFO [main] Base:58 - Verifying Next Page is displayed
+2021-11-22 12:58:26,500  INFO [main] Base:37 - Driver Initialized
+2021-11-22 12:58:32,998  INFO [main] Base:39 - Site opened
+2021-11-22 12:58:33,103  INFO [main] Base:35 - Title image displayed
+2021-11-22 12:58:33,230  INFO [main] Base:45 - Nav bar 
+2021-11-22 12:58:37,825  INFO [main] Base:37 - Driver Initialized
+2021-11-22 12:58:44,573  INFO [main] Base:39 - Site opened
+2021-11-22 12:58:44,590  INFO [main] Base:43 - Hovered over Official Merchandise Tab
+2021-11-22 12:58:44,910  INFO [main] Base:54 - Hovered to Marvel Merchandise in subsection and clicked on it
+2021-11-22 12:58:50,274  INFO [main] Base:74 - Title Verified
+2021-11-22 12:58:54,889  INFO [main] Base:37 - Driver Initialized
+2021-11-22 12:59:01,925  INFO [main] Base:39 - Site opened
+2021-11-22 12:59:01,927  INFO [main] Base:36 - Clicking on GiftCard
+2021-11-22 12:59:06,863  INFO [main] Base:48 - Enter post code in post code column
+2021-11-22 12:59:07,776  INFO [main] Base:59 - Desired Message is displayed
+2021-11-22 12:59:17,659  INFO [main] Base:37 - Driver Initialized
+2021-11-22 12:59:24,941  INFO [main] Base:39 - Site opened
+2021-11-22 12:59:24,949  INFO [main] Base:37 - Entering text into the search bar
+2021-11-22 12:59:29,976  INFO [main] Base:47 - Product dsiplayed
+2021-11-22 12:59:37,870  INFO [main] Base:37 - Driver Initialized
+2021-11-22 12:59:44,867  INFO [main] Base:39 - Site opened
+2021-11-22 12:59:44,868  INFO [main] Base:37 - Searching an item from the search bar
+2021-11-22 12:59:51,485  INFO [main] Base:50 - Clicked on the desired product
+2021-11-22 12:59:56,021  INFO [main] Base:60 - Clicked on the Add to wishlist
+2021-11-22 13:00:01,312  INFO [main] Base:77 - Clicked on View product in wishlist link and naviagated to the page
+2021-11-22 13:00:09,198  INFO [main] Base:94 - Product verified
+2021-11-22 13:00:18,857  INFO [main] Base:37 - Driver Initialized
+2021-11-22 13:00:26,892  INFO [main] Base:39 - Site opened
+2021-11-22 13:00:31,737  INFO [main] Base:45 - Clicking on  Secret Santa Gifts section from Navigation Bar
+2021-11-22 13:00:31,739  INFO [main] Base:51 - Clicking on Sort and choose the Best Selling option from the dropdown
+2021-11-22 13:00:38,563  INFO [main] Base:60 - Best Selling Products displayed
